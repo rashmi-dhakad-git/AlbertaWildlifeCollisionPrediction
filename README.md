@@ -57,14 +57,10 @@ Before running the code, make sure you have the following installed:
 1. Run the species prediction script:
 
     ```bash
-    python species_prediction.py
+    python AlbertaWildlifeCollisionPredictionProgram.py
     ```
 
-2. Run the geographical scatter plot script:
 
-    ```bash
-    python geographical_scatter_plot.py
-    ```
 
 
 ## License
