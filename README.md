@@ -66,16 +66,6 @@ Before running the code, make sure you have the following installed:
     python geographical_scatter_plot.py
     ```
 
-## Directory Structure
-
-- **data/**
-
-- **scripts/**
-  - *AlbertaWildlifeCollisionPredictionProgram*
-- *README.md*
-- *requirements.txt*
-- *.gitignore*
-- *LICENSE*
 
 ## License
 
